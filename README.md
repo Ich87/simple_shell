@@ -1,1 +1,1 @@
-simple_shell group project
+This is a simple shell group project done by Ichehono Ejeje and Ogbonna Michael
